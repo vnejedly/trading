@@ -4,3 +4,5 @@ data
 .idea
 .vscode
 .env
+.DS_Store
+.venv
